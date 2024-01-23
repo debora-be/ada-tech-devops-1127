@@ -1,0 +1,61 @@
+<Preferencias>
+    <Filmes>
+        <Filme>
+            <Titulo>A Viagem de Chihiro</Titulo>
+            <AnoDeLancamento>2001</AnoDeLancamento>
+            <ElencoPrincipal>Rumi Hiiragi, Miyu Irino, Mari Natsuki</ElencoPrincipal>
+            <Tipo>Animação, Fantasia</Tipo>
+            <Sinopse>Chihiro e seus pais se deparam com um mundo mágico, onde ela deve trabalhar para salvar seus pais e retornar ao mundo humano.</Sinopse>
+        </Filme>
+        <Filme>
+            <Titulo>Okuribito (Departures)</Titulo>
+            <AnoDeLancamento>2008</AnoDeLancamento>
+            <ElencoPrincipal>Masahiro Motoki, Ryoko Hirosue, Tsutomu Yamazaki</ElencoPrincipal>
+            <Tipo>Drama</Tipo>
+            <Sinopse>Um jovem descobre o mundo das cerimônias funerárias japonesas e aprende sobre a vida, a morte e a reconciliação com o passado.</Sinopse>
+        </Filme>
+        <Filme>
+            <Titulo>Kimi no Na wa (Your Name)</Titulo>
+            <AnoDeLancamento>2016</AnoDeLancamento>
+            <ElencoPrincipal>Ryunosuke Kamiki, Mone Kamishiraishi</ElencoPrincipal>
+            <Tipo>Animação, Drama, Romance</Tipo>
+            <Sinopse>Dois jovens, um da cidade e outro do campo, descobrem que estão misteriosamente trocando de corpos e devem buscar um ao outro.</Sinopse>
+        </Filme>
+    </Filmes>
+    <Livros>
+        <Livro>
+            <Titulo>Battle Royale</Titulo>
+            <Autor>Koushun Takami</Autor>
+            <AnoDeLancamento>1999</AnoDeLancamento>
+            <Tipo>Dystopian, Thriller</Tipo>
+            <NumeroDePaginas>666</NumeroDePaginas>
+        </Livro>
+        <Livro>
+            <Titulo>The Wind-Up Bird Chronicle</Titulo>
+            <Autor>Haruki Murakami</Autor>
+            <AnoDeLancamento>1995</AnoDeLancamento>
+            <Tipo>Surrealism, Magical Realism</Tipo>
+            <NumeroDePaginas>607</NumeroDePaginas>
+        </Livro>
+        <Livro>
+            <Titulo>Kitchen</Titulo>
+            <Autor>Banana Yoshimoto</Autor>
+            <AnoDeLancamento>1988</AnoDeLancamento>
+            <Tipo>Romance, Contemporary</Tipo>
+            <NumeroDePaginas>152</NumeroDePaginas>
+        </Livro>
+    </Livros>
+    <Comidas>
+        <Comida>
+            <Nome>Lu Rou Fan</Nome>
+            <Ingredientes>Shiitake, molho de soja, cinco especiarias</Ingredientes></Comida>
+        <Comida>
+            <Nome>Cong You Bing</Nome>
+            <Ingredientes>Farinha, cebola verde, óleo, sal</Ingredientes>
+        </Comida>
+        <Comida>
+            <Nome>Chai Pao Yu</Nome>
+            <Ingredientes>Tofu, cogumelos, cenoura, molho de soja</Ingredientes>
+        </Comida>
+    </Comidas>
+</Preferencias>

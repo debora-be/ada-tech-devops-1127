@@ -27,21 +27,21 @@
             <Titulo>Battle Royale</Titulo>
             <Autor>Koushun Takami</Autor>
             <AnoDeLancamento>1999</AnoDeLancamento>
-            <Tipo>Dystopian, Thriller</Tipo>
+            <Tipo>Distopia, Thriller</Tipo>
             <NumeroDePaginas>666</NumeroDePaginas>
         </Livro>
         <Livro>
             <Titulo>The Wind-Up Bird Chronicle</Titulo>
             <Autor>Haruki Murakami</Autor>
             <AnoDeLancamento>1995</AnoDeLancamento>
-            <Tipo>Surrealism, Magical Realism</Tipo>
+            <Tipo>Surrealismo, Realismo Mágico</Tipo>
             <NumeroDePaginas>607</NumeroDePaginas>
         </Livro>
         <Livro>
             <Titulo>Kitchen</Titulo>
             <Autor>Banana Yoshimoto</Autor>
             <AnoDeLancamento>1988</AnoDeLancamento>
-            <Tipo>Romance, Contemporary</Tipo>
+            <Tipo>Romance, Contemporâneo</Tipo>
             <NumeroDePaginas>152</NumeroDePaginas>
         </Livro>
     </Livros>

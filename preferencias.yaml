@@ -1,0 +1,43 @@
+Preferencias:
+  Filmes:
+    Filme:
+      - Titulo: A Viagem de Chihiro
+        AnoDeLancamento: 2001
+        ElencoPrincipal: Rumi Hiiragi, Miyu Irino, Mari Natsuki
+        Tipo: Animação, Fantasia
+        Sinopse: Chihiro e seus pais se deparam com um mundo mágico, onde ela deve trabalhar para salvar seus pais e retornar ao mundo humano.
+      - Titulo: Okuribito (Departures)
+        AnoDeLancamento: 2008
+        ElencoPrincipal: Masahiro Motoki, Ryoko Hirosue, Tsutomu Yamazaki
+        Tipo: Drama
+        Sinopse: Um jovem descobre o mundo das cerimônias funerárias japonesas e aprende sobre a vida, a morte e a reconciliação com o passado.
+      - Titulo: Kimi no Na wa (Your Name)
+        AnoDeLancamento: 2016
+        ElencoPrincipal: Ryunosuke Kamiki, Mone Kamishiraishi
+        Tipo: Animação, Drama, Romance
+        Sinopse: Dois jovens, um da cidade e outro do campo, descobrem que estão misteriosamente trocando de corpos e devem buscar um ao outro.
+  Livros:
+    Livro:
+      - Titulo: Battle Royale
+        Autor: Koushun Takami
+        AnoDeLancamento: 1999
+        Tipo: Distopia, Thriller
+        NumeroDePaginas: 666
+      - Titulo: The Wind-Up Bird Chronicle
+        Autor: Haruki Murakami
+        AnoDeLancamento: 1995
+        Tipo: Surrealismo, Realismo Mágico
+        NumeroDePaginas: 607
+      - Titulo: Kitchen
+        Autor: Banana Yoshimoto
+        AnoDeLancamento: 1988
+        Tipo: Romance, Contemporâneo
+        NumeroDePaginas: 152
+  Comidas:
+    Comida:
+      - Nome: Lu Rou Fan
+        Ingredientes: Shiitake, molho de soja, cinco especiarias
+      - Nome: Cong You Bing
+        Ingredientes: Farinha, cebola verde, óleo, sal
+      - Nome: Chai Pao Yu
+        Ingredientes: Tofu, cogumelos, cenoura, molho de soja
